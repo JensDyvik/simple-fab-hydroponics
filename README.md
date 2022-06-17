@@ -8,7 +8,13 @@ System and 3D design by [Knut Klo](http://klo.no/), additional design ideas by [
 
 Techniques and design files for static hydroponic growing of salad or other pants in a Fab Lab
 
+![](img/salat.gif)
+Growth of a lettuce pant
+
+
 ![](img/1-brainstorming.JPG)
+Brainstorming at Fab Lab Lyngen
+
 
 ### What to buy
 
@@ -31,7 +37,7 @@ A box cover for sprout case and grow case (or drill ø50mm holes in the lid). Co
 
 3D print one [Rockwool holder](https://github.com/JensDyvik/simple-fab-hydroponics/blob/main/stl-files-for-3d-printing/GrodanGroCup_v05-trimmed.stl) and [Sprout yurt](https://github.com/JensDyvik/simple-fab-hydroponics/blob/main/stl-files-for-3d-printing/sprout-yurt-for-spiral-vase-printing.stl) per plant you are going to grow.
 
-Place the rockwool cubes into the 3D printed holders and make small hold in the middle of the rockwool top.
+Place the rockwool cubes into the 3D printed holders. The top of the rockwool should be flush with the holder.
 
 
 ![](img/2-lasercutting.JPG)
@@ -78,8 +84,20 @@ The seeds that we sprouted in Fab Lab Lyngen in June 2022
 - Add light source and timing cycle
 - If all is well you can leave plants alone untill ripe for harvesting
 
+![](img/salad-growing.jpg)
+
+![](img/roots.jpg)
+
+
 More details and pics coming soon
 
 ### How to harvest and restart
 
 Coming sooon
+
+### To do
+
+ - Add more details to growth documention
+ - Fix dimensions of freecad design file of the rockwool https://github.com/JensDyvik/simple-fab-hydroponics/blob/main/cad-files/rockwool-holder.FCStd
+ - Test growing in 5l bottle
+ - Test growing in the soon to be built greenhouse at Fab Lab Lyngen
