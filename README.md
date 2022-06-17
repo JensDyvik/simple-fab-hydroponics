@@ -27,18 +27,16 @@ Brainstorming at Fab Lab Lyngen
 
 ### What to CNC mill, laser cut or drill and saw
 
-A box cover for sprout case and grow case (or drill ø50mm holes in the lid). Coming soon (see pics)
+A box cover for sprout case and grow case (or drill ø50mm holes in the lid). Coming soon (see pics further down)
+
+![](img/2-lasercutting.JPG)
+Laser cut a top plate for the sprout box or drill ø50mm holes in a lid or plate
 
 ### How to sprout
 
 3D print one [Rockwool holder](https://github.com/JensDyvik/simple-fab-hydroponics/blob/main/stl-files-for-3d-printing/GrodanGroCup_v05-trimmed.stl) and [Sprout yurt](https://github.com/JensDyvik/simple-fab-hydroponics/blob/main/stl-files-for-3d-printing/sprout-yurt-for-spiral-vase-printing.stl) per plant you are going to grow.
 
 Place the rockwool cubes into the 3D printed holders. The top of the rockwool should be flush with the holder.
-
-
-![](img/2-lasercutting.JPG)
-Laser cut a top plate for the sprout box or drill ø50mm holes in a lid or plate
-
 
 
 ![](img/3-adding-water.JPG)
@@ -75,7 +73,7 @@ The seeds that we sprouted in Fab Lab Lyngen in June 2022
 
 - Check PH levels in your tap water. Adjust until PH is 5.5?
 - Mix fertilizer with water
-- Add water to grow box. The waterlevel should be about 1cmm below the rockwool grodan (only the root should be in the fertilized water)
+- Add water to grow box. The waterlevel should be about 1cm bellow the rockwool grodan (only the root should be in the fertilized water)
 - Transfer the 3D printed rockwool holders with the sprouts from the sprout box to the holes in the lid of the growbox,
 - Make sure no light can reach the water (aluminum foil can be a quick way to cover white/transparent boxes or lids)
 - Add light source and timing cycle
