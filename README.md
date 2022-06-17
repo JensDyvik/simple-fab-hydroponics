@@ -2,11 +2,7 @@
 
 *June 2022*
 
-System and 3D design by [Knut Klo](http://klo.no/), additional design ideas by [Haakon Karlsen Jr](https://www.vikingcabins.com/copy-of-amenities) and Jens Dyvik
-
-### What it is
-
-Techniques and design files for static hydroponic growing of salad or other pants in a Fab Lab
+Techniques and design files for static hydroponic growing of salad or other pants in a Fab Lab. System and 3D design by [Knut Klo](http://klo.no/), additional design ideas by [Haakon Karlsen Jr](https://www.vikingcabins.com/copy-of-amenities) and Jens Dyvik.
 
 ![](img/salat.gif)
 Growth of a lettuce pant
@@ -80,6 +76,7 @@ The seeds that we sprouted in Fab Lab Lyngen in June 2022
 - Check PH levels in your tap water. Adjust until PH is 5.5?
 - Mix fertilizer with water
 - Add water to grow box. The waterlevel should be about 1cmm below the rockwool grodan (only the root should be in the fertilized water)
+- Transfer the 3D printed rockwool holders with the sprouts from the sprout box to the holes in the lid of the growbox,
 - Make sure no light can reach the water (aluminum foil can be a quick way to cover white/transparent boxes or lids)
 - Add light source and timing cycle
 - If all is well you can leave plants alone untill ripe for harvesting
